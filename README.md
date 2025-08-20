@@ -1,8 +1,3 @@
-# DSA
+# LeetCode · DSA
 
-adad
-a
-sd
-ad
-a
-sd
+Short, clean implementations of common **Data Structures & Algorithms** problems (mainly from LeetCode).
