@@ -18,6 +18,7 @@ Clean and efficient implementations of LeetCode problems across multiple program
 ## Languages Used
 
 - C
+- C++
 - Python
 - Dart
 
